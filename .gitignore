@@ -1,0 +1,6 @@
+# 只上传 .srt 成品字幕，排除 App 状态文件、.bak 备份和系统文件
+*
+!*/
+!*.srt
+!.gitignore
+!README.md
